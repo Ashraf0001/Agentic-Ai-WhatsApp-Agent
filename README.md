@@ -19,7 +19,7 @@
 - [Contributors](#contributors)
 - [License](#license)
 
-## Course Overview
+## Project  Overview
 
 What happens when [two ML Engineers](#contributors) with a love for sci-fi movies team up? 🤔
 
@@ -70,11 +70,9 @@ Excited? Let's get started!
 
 ---
 
-## Who is this course for?
 
-This course is for Software Engineers, ML Engineers, and AI Engineers who want to level up by building complex end-to-end apps. It's not just a basic "Hello World" tutorial—it's a deep dive into making a production-ready WhatsApp agent.
 
-## What you'll get out of this course
+## What you'll do this app
 
 * Build a fully working WhatsApp agent you can chat with on your phone
 * Get a solid understanding of how to build LangGraph workflows
@@ -111,13 +109,6 @@ All of this is detailed in the following doc: [GETTING STARTED.md](docs/GETTING_
 
 ---
 
-## How much is this going to cost me?
-
-The awesome thing about this project is **you can run it on your own computer for free!**
-
-The **free tiers** from Groq, ElevenLabs, Qdrant Cloud, and Together AI are more than enough to get you going.
-
-If you want to try it out on Google Cloud Run, you can get a free account and get $300 in free credits. Even if you've already used up your free credits, Cloud Run is super cheap - so it will take just a buck or two for your experiments.
 
 ---
 
@@ -155,55 +146,6 @@ If you want to try it out on Google Cloud Run, you can get a free account and ge
 </table>
 
 
-## Contributors
 
-<table>
-  <tr>
-    <td align="center"><img src="https://github.com/MichaelisTrofficus.png" width="100" style="border-radius:50%;"/></td>
-    <td>
-      <strong>Miguel Otero Pedrido | Senior ML / AI Engineer </strong><br />
-      <i>Founder of The Neural Maze. Rick and Morty fan.</i><br /><br />
-      <a href="https://www.linkedin.com/in/migueloteropedrido/">LinkedIn</a><br />
-      <a href="https://www.youtube.com/@TheNeuralMaze">YouTube</a><br />
-      <a href="https://theneuralmaze.substack.com/">The Neural Maze Newsletter</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github.com/jesuscopado.png" width="100" style="border-radius:50%;"/></td>
-    <td>
-      <strong>Jesús Copado | Senior ML / AI Engineer </strong><br />
-      <i>Equal parts cinema fan and AI enthusiast.</i><br /><br />
-      <a href="https://www.youtube.com/@jesuscopado-en">YouTube</a><br />
-      <a href="https://www.linkedin.com/in/copadojesus/">LinkedIn</a><br />
-    </td>
-  </tr>
-</table>
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="20%" style="border: none;">
-      <a href="https://theneuralmaze.substack.com/" aria-label="The Neural Maze">
-        <img src="https://avatars.githubusercontent.com/u/151655127?s=400&u=2fff53e8c195ac155e5c8ee65c6ba683a72e655f&v=4" alt="The Neural Maze Logo" width="150"/>
-      </a>
-    </td>
-    <td width="80%" style="border: none;">
-      <div>
-        <h2>📬 Stay Updated</h2>
-        <p><b><a href="https://theneuralmaze.substack.com/">Join The Neural Maze</a></b> and learn to build AI Systems that actually work, from principles to production. Every Wednesday, directly to your inbox. Don't miss out!
-</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://theneuralmaze.substack.com/">
-    <img src="https://img.shields.io/static/v1?label&logo=substack&message=Subscribe Now&style=for-the-badge&color=black&scale=2" alt="Subscribe Now" height="40">
-  </a>
-</p>
