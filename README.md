@@ -8,20 +8,10 @@
     <img alt="logo" src="img/whatsapp_logo.png" width=100 />
 </p>
 
-## Table of Contents
 
-- [Course Overview](#course-overview)
-- [Who is this course for?](#who-is-this-course-for)
-- [What you'll get out of this course](#what-youll-get-out-of-this-course)
-- [Course syllabus](#course-syllabus)
-- [Getting started](#getting-started)
-- [The tech stack](#the-tech-stack)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Project  Overview
 
-What happens when [two ML Engineers](#contributors) with a love for sci-fi movies team up? 🤔
 
 You get **Ava**, a Whatsapp agent that can engage with users in a "realistic" way, inspired by the great film [Ex Machina](https://www.imdb.com/es-es/title/tt0470752/). Ok, you won't find a fully sentient robot here, but you **will** have some pretty interesting Whatsapp conversations.
 
